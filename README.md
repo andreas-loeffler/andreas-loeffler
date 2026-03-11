@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Waving Robot Header](./andreas_loeffler_readme.gif)
 <!--
 **andreas-loeffler/andreas-loeffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
